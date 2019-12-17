@@ -20,5 +20,7 @@ namespace CheeseMVC.Data
                 .HasKey(c => new { c.CheeseID, c.MenuID });
         }
 
+
+
     }
 }
